@@ -1,6 +1,6 @@
-def say_hello():
-    sh=print("hello")*10
-    return sh
+def say_bye():
+    sb=print("bye")*10
+    return sb
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
