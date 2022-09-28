@@ -1,0 +1,3 @@
+def kit_king():
+     kk=print("I'm kit king")*40
+     return kk
